@@ -63,10 +63,6 @@ body {
     visibility: visible;
   }
 
-  #level-title {
-    font-size: 1.5rem;
-  }
-
   .clickMe {
     background-color: #B1FFFD;
     color: #420516;
@@ -76,7 +72,7 @@ body {
     width: 100px;
     text-align: center;
     position: relative;
-    margin-left: 40%;
+    margin-left: 45%;
     padding: 10px;
   }
 }
